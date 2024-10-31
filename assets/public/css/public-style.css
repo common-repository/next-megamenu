@@ -1,0 +1,20 @@
+/*Global css start here*/
+li.nx-megamenuli-position {  position: static !important; }
+.next-megamenu-content { width: 100%; }
+
+@media (max-width: 991px) { .next-mail-section .next-inner-from .next-mail-button { padding: 12px 10px; }
+  .next-mail-section .next-inner-from .next-mail-button .next-btn-text { padding-right: 4px; }
+  .next-mail-section.next-form4 .next-inner-from .next-mail-button { padding: 12px 10px; } }
+
+@media (max-width: 767px) { .next-mail-section .next-inner-from { display: block; }
+  .next-mail-section .next-inner-from .next-input { margin-right: 0; margin-bottom: 10px; }
+  .next-mail-section .next-inner-from .next-mail-button { width: 100%; margin-top: 5px; }
+  .next-mail-section .next-inner-from .next-mail-button .next-btn-text { padding-right: 13px; }
+  .next-mail-section.next-form4 .next-inner-from .next-mail-filed.next-input { margin-right: 0px; }
+  .next-mail-section.next-form4 .next-inner-from .next-mail-filed.next-input .next-input-filed { border-radius: 5px !important; }
+  .next-mail-section.next-form4 .next-inner-from .next-mail-button { border-radius: 5px; }
+  .next-mail-section.next-form5 .next-inner-from .next-mail-filed.next-input { margin-right: 0; }
+  .next-mail-section.next-form5 .next-inner-from .next-mail-filed.next-input .next-input-filed { border-radius: 25px !important; }
+  .next-mail-section.next-form5 .next-inner-from .next-mail-button { border-radius: 25px; } }
+
+@media (max-width: 480px) { .next-mail-section .next-inner-from .next-mail-button .next-btn-text { padding-right: 15px; } }
